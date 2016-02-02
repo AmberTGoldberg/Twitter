@@ -1,0 +1,6 @@
+c:\users\owner\documents\visual studio 2015\Projects\Twitter\Twitter\bin\Debug\Twitter.exe.config
+c:\users\owner\documents\visual studio 2015\Projects\Twitter\Twitter\bin\Debug\Twitter.exe
+c:\users\owner\documents\visual studio 2015\Projects\Twitter\Twitter\bin\Debug\Twitter.pdb
+c:\users\owner\documents\visual studio 2015\Projects\Twitter\Twitter\obj\Debug\Twitter.csprojResolveAssemblyReference.cache
+c:\users\owner\documents\visual studio 2015\Projects\Twitter\Twitter\obj\Debug\Twitter.exe
+c:\users\owner\documents\visual studio 2015\Projects\Twitter\Twitter\obj\Debug\Twitter.pdb

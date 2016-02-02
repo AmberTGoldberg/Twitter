@@ -1,0 +1,9 @@
+Ward follws Alan
+Alan follows Martin
+Ward follows Martin, Alan
+Martin follows Evan
+Martin follows Dana
+Dana follws Alan
+Dana follows Alan, Amber, Evan, Ward
+Amber follows Evan
+Alam follows Martin

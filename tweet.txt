@@ -1,0 +1,9 @@
+Alan> If you have a procedure with 10 parameters, you probably missed some.
+Ward> There are only two hard things in Computer Science: cache invalidation, naming things and off-by-1 qwertyuiopasdfghjklmnbvcxzzxcvbnmlkjhhfdsaqwertyuioppoiuytrewqasdfghjklmnbvcxz12121112221iueriuweoruwerweoruewfklsdfhdsfgsdgksdhfgkasdgfsdjgfhgfskahskdjsdgfsghfetwetrewytrwyetrbxnvbxcvbxcnbvc,xbvxcbv
+Alan> Random numbers should not be generated with a method chosen at random.
+Martin> Hello there how are you
+Evan> There you are
+Dana< Keep calm
+Evan> Hellow there people
+Alan Do not move
+Martin> The dog is sleeping
